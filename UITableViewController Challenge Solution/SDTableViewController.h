@@ -1,5 +1,5 @@
 //
-//  SDViewController.h
+//  SDTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Shafqat Dulal on 6/18/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface SDViewController : UIViewController
+@interface SDTableViewController : UITableViewController
 
 @end
